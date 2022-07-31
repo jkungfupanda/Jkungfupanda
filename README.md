@@ -5,7 +5,7 @@ I'm James Peirano.
 - 📚 Concentrations in Artificial Intelligence and Statistics.
 
 [![Mail Badge](https://img.shields.io/badge/-jamesjosephpeirano@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jamesjosephpeirano@gmail.com)](mailto:jamesjosephpeirano@gmail.com)
-<a href="https://www.linkedin.com/in/jkungfupanda/">
+<a href="https://www.linkedin.com/in/james-peirano-0a479a154/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
